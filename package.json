@@ -105,7 +105,7 @@
     "semantic-release": "^15.13.3",
     "shelljs": "^0.8.3",
     "stats.js": "^0.17.0",
-    "three": "^0.110.0",
+    "three": "^0.125.0",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.15.0",
